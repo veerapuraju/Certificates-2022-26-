@@ -12,6 +12,8 @@ Engineering certificates.
 - **ACM Winter School on Explainable AI, SRM University–AP (Dec 2024)**  
   Selected participant in a competitive program on Explainable AI (XAI), gaining knowledge of interpretable ML models, fairness, transparency, and responsible AI.
 
+  https://github.com/veerapuraju/Certificates-2022-26-/blob/main/ACM.pdf
+
 - **CODE-A-THON Participant, GITAM University (2024)**  
   Participated in a coding hackathon focused on solving real-world programming challenges, enhancing problem-solving, algorithmic thinking, and teamwork skills.
 
