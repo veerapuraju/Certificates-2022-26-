@@ -17,5 +17,9 @@ Engineering certificates.
 - **CODE-A-THON Participant, GITAM University (2024)**  
   Participated in a coding hackathon focused on solving real-world programming challenges, enhancing problem-solving, algorithmic thinking, and teamwork skills.
 
+
+  https://github.com/veerapuraju/Certificates-2022-26-/blob/main/COde.pdf
+  
+
 - **Internal Smart India Hackathon, GITAM University (2023)**  
   Contributed as a team member in designing and prototyping technology solutions for industry-defined problems, showcasing innovation and collaboration.
