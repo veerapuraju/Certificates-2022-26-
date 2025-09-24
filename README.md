@@ -7,6 +7,8 @@ Engineering certificates.
 - **Google Cloud Computing Foundations & Generative AI (2025)**  
   Completed foundational training on cloud infrastructure and generative AI, with hands-on exposure to building scalable cloud applications and AI-driven solutions.
 
+  https://www.cloudskillsboost.google/public_profiles/e0caac4b-f3fa-4b24-a150-058d20174f10/badges/16520337
+
 - **ACM Winter School on Explainable AI, SRM University–AP (Dec 2024)**  
   Selected participant in a competitive program on Explainable AI (XAI), gaining knowledge of interpretable ML models, fairness, transparency, and responsible AI.
 
