@@ -23,3 +23,6 @@ Engineering certificates.
 
 - **Internal Smart India Hackathon, GITAM University (2023)**  
   Contributed as a team member in designing and prototyping technology solutions for industry-defined problems, showcasing innovation and collaboration.
+
+
+https://github.com/veerapuraju/Certificates-2022-26-/blob/main/SIH.pdf
