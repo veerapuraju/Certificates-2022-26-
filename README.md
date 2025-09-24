@@ -1,2 +1,17 @@
 # Certificates-2022-26-
 Engineering certificates.
+
+
+## 📜 Certifications & Achievements
+
+- **Google Cloud Computing Foundations & Generative AI (2025)**  
+  Completed foundational training on cloud infrastructure and generative AI, with hands-on exposure to building scalable cloud applications and AI-driven solutions.
+
+- **ACM Winter School on Explainable AI, SRM University–AP (Dec 2024)**  
+  Selected participant in a competitive program on Explainable AI (XAI), gaining knowledge of interpretable ML models, fairness, transparency, and responsible AI.
+
+- **CODE-A-THON Participant, GITAM University (2024)**  
+  Participated in a coding hackathon focused on solving real-world programming challenges, enhancing problem-solving, algorithmic thinking, and teamwork skills.
+
+- **Internal Smart India Hackathon, GITAM University (2023)**  
+  Contributed as a team member in designing and prototyping technology solutions for industry-defined problems, showcasing innovation and collaboration.
